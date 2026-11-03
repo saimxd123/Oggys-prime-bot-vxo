@@ -2,9 +2,9 @@ import os
 import json
 
 # ── Telegram API ────────────────────────────────────────
-API_ID    = int(os.environ.get('API_ID',    '0'))
-API_HASH  =     os.environ.get('API_HASH',  '')
-BOT_TOKEN =     os.environ.get('BOT_TOKEN', '8715573932:AAHDWPEleFZRjEUOhy050THNSSkvwrLlKFk')
+API_ID    = int(os.environ.get('API_ID',    '30949016'))
+API_HASH  =     os.environ.get('API_HASH',  '29610b037ec08cccfcc219057143a818')
+BOT_TOKEN =     os.environ.get('BOT_TOKEN', '8715573932:AAEDYrrJ2DOmyoJI--Zp0lwrjGte9nPq9RU')
 TG_API    = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
 # ── Brand ───────────────────────────────────────────────
